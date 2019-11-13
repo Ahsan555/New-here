@@ -1,0 +1,37 @@
+.color {
+    background-color: #87ceeb;
+    text-align: center;
+    font-family: monospace;
+    font-size: 200%;
+  }
+  form {
+    line-height: 35px;
+  }
+  button {
+    color: green;
+    font-size: 30px;
+  }
+  textarea {
+    font-size: 17px;
+    font-color: ;
+  }
+  h1 {
+    font-size: 50px;
+    color: blue;
+  }
+  p {
+    font-size: 30px;
+    color: purple;
+  }
+  .brown {
+    color: brown;
+  }
+  .yellow {
+    color: red;
+  }
+  .green {
+    color: green;
+  }
+  .blue {
+    color: blue;
+  }
